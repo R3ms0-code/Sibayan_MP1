@@ -39,7 +39,3 @@ function ChangeImage(i){
         $("#imgprev, #imgcurr, #imgnext").removeClass("fade");
     }, 350);
 }
-
-$(".book").click(function(){
-    prompt("Enter Email Address")
-})
