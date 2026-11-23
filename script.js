@@ -1,4 +1,4 @@
-const arr = ["../Images/P1.png","../Images/P2.png","../Images/P3.png","../Images/P4.png","../Images/P5.png","../Images/P6.png","../Images/P7.png","../Images/P8.png"];
+const arr = ["../Images/P1.webp","../Images/P2.webp","../Images/P3.webp","../Images/P4.webp","../Images/P5.webp","../Images/P6.webp","../Images/P7.webp","../Images/P8.webp"];
 var curr = 0;
 
 $(".uimenu").click(function(){
